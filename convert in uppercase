@@ -1,0 +1,10 @@
+class uppercase
+{
+public static void main(String args[])
+{
+String name="new";
+System.out.println(name.toUpperCase());
+
+}
+
+}
